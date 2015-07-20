@@ -6,4 +6,5 @@ Githubのテスト
 ###メンバー
 
 *testmember
+*testmember2
 
